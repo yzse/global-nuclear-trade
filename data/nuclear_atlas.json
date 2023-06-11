@@ -1,0 +1,5294 @@
+{
+  "nodes": [
+    {
+      "country": "Russian Federation",
+      "index": 1
+    },
+    {
+      "country": "USA",
+      "index": 2
+    },
+    {
+      "country": "Kazakhstan",
+      "index": 3
+    },
+    {
+      "country": "China",
+      "index": 4
+    },
+    {
+      "country": "Netherlands",
+      "index": 5
+    },
+    {
+      "country": "France",
+      "index": 6
+    },
+    {
+      "country": "Sweden",
+      "index": 7
+    },
+    {
+      "country": "Canada",
+      "index": 8
+    },
+    {
+      "country": "United Kingdom",
+      "index": 9
+    },
+    {
+      "country": "Namibia",
+      "index": 10
+    },
+    {
+      "country": "Australia",
+      "index": 11
+    },
+    {
+      "country": "Germany",
+      "index": 12
+    },
+    {
+      "country": "Rep. of Korea",
+      "index": 13
+    },
+    {
+      "country": "Ukraine",
+      "index": 14
+    },
+    {
+      "country": "Spain",
+      "index": 15
+    },
+    {
+      "country": "Pakistan",
+      "index": 16
+    },
+    {
+      "country": "Belarus",
+      "index": 17
+    },
+    {
+      "country": "Uzbekistan",
+      "index": 18
+    },
+    {
+      "country": "Niger",
+      "index": 19
+    },
+    {
+      "country": "United Arab Emirates",
+      "index": 20
+    },
+    {
+      "country": "Japan",
+      "index": 21
+    },
+    {
+      "country": "Czech Rep.",
+      "index": 22
+    },
+    {
+      "country": "Taiwan, China",
+      "index": 23
+    },
+    {
+      "country": "Bangladesh",
+      "index": 24
+    },
+    {
+      "country": "Finland",
+      "index": 25
+    },
+    {
+      "country": "Bulgaria",
+      "index": 26
+    },
+    {
+      "country": "Thailand",
+      "index": 27
+    },
+    {
+      "country": "India",
+      "index": 28
+    },
+    {
+      "country": "Slovakia",
+      "index": 29
+    },
+    {
+      "country": "Switzerland",
+      "index": 30
+    },
+    {
+      "country": "Hungary",
+      "index": 31
+    },
+    {
+      "country": "Belgium",
+      "index": 32
+    },
+    {
+      "country": "Norway",
+      "index": 33
+    },
+    {
+      "country": "Turkey",
+      "index": 34
+    },
+    {
+      "country": "Israel",
+      "index": 35
+    },
+    {
+      "country": "Greece",
+      "index": 36
+    },
+    {
+      "country": "South Africa",
+      "index": 37
+    },
+    {
+      "country": "Bahrain",
+      "index": 38
+    },
+    {
+      "country": "Saudi Arabia",
+      "index": 39
+    },
+    {
+      "country": "Armenia",
+      "index": 40
+    },
+    {
+      "country": "Nigeria",
+      "index": 41
+    },
+    {
+      "country": "Mexico",
+      "index": 42
+    },
+    {
+      "country": "Brazil",
+      "index": 43
+    },
+    {
+      "country": "Madagascar",
+      "index": 44
+    },
+    {
+      "country": "Romania",
+      "index": 45
+    },
+    {
+      "country": "Georgia",
+      "index": 46
+    },
+    {
+      "country": "Italy",
+      "index": 47
+    },
+    {
+      "country": "Argentina",
+      "index": 48
+    },
+    {
+      "country": "Guyana",
+      "index": 49
+    },
+    {
+      "country": "Costa Rica",
+      "index": 50
+    },
+    {
+      "country": "Singapore",
+      "index": 51
+    },
+    {
+      "country": "Malaysia",
+      "index": 52
+    },
+    {
+      "country": "Iran",
+      "index": 53
+    },
+    {
+      "country": "Qatar",
+      "index": 54
+    },
+    {
+      "country": "Austria",
+      "index": 55
+    },
+    {
+      "country": "Slovenia",
+      "index": 56
+    },
+    {
+      "country": "Indonesia",
+      "index": 57
+    },
+    {
+      "country": "Denmark",
+      "index": 58
+    },
+    {
+      "country": "Croatia",
+      "index": 59
+    },
+    {
+      "country": "Viet Nam",
+      "index": 60
+    },
+    {
+      "country": "Philippines",
+      "index": 61
+    },
+    {
+      "country": "Hong Kong",
+      "index": 62
+    },
+    {
+      "country": "Poland",
+      "index": 63
+    },
+    {
+      "country": "Oman",
+      "index": 64
+    },
+    {
+      "country": "New Zealand",
+      "index": 65
+    },
+    {
+      "country": "Iceland",
+      "index": 66
+    },
+    {
+      "country": "El Salvador",
+      "index": 67
+    },
+    {
+      "country": "Serbia",
+      "index": 68
+    },
+    {
+      "country": "Egypt",
+      "index": 69
+    },
+    {
+      "country": "Portugal",
+      "index": 70
+    },
+    {
+      "country": "Estonia",
+      "index": 71
+    },
+    {
+      "country": "Ireland",
+      "index": 72
+    }
+  ],
+  "edges": [
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 645727769
+    },
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 645727769
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "China",
+      "weight": 553183361
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "China",
+      "weight": 553183361
+    },
+    {
+      "source": "Netherlands",
+      "target": "USA",
+      "weight": 535093761
+    },
+    {
+      "source": "Netherlands",
+      "target": "USA",
+      "weight": 535093761
+    },
+    {
+      "source": "Sweden",
+      "target": "France",
+      "weight": 502099219
+    },
+    {
+      "source": "Sweden",
+      "target": "France",
+      "weight": 502099219
+    },
+    {
+      "source": "Canada",
+      "target": "United Kingdom",
+      "weight": 495550326
+    },
+    {
+      "source": "Canada",
+      "target": "United Kingdom",
+      "weight": 495550326
+    },
+    {
+      "source": "Namibia",
+      "target": "China",
+      "weight": 489475811
+    },
+    {
+      "source": "Namibia",
+      "target": "China",
+      "weight": 489475811
+    },
+    {
+      "source": "Australia",
+      "target": "China",
+      "weight": 445402275
+    },
+    {
+      "source": "Australia",
+      "target": "China",
+      "weight": 445402275
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 426967225
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 426967225
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 415672712
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 415672712
+    },
+    {
+      "source": "United Kingdom",
+      "target": "USA",
+      "weight": 393289651
+    },
+    {
+      "source": "United Kingdom",
+      "target": "USA",
+      "weight": 393289651
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Rep. of Korea",
+      "weight": 367412575
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Rep. of Korea",
+      "weight": 367412575
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Canada",
+      "weight": 348251539
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Canada",
+      "weight": 348251539
+    },
+    {
+      "source": "Australia",
+      "target": "Canada",
+      "weight": 297633518
+    },
+    {
+      "source": "Australia",
+      "target": "Canada",
+      "weight": 297633518
+    },
+    {
+      "source": "Sweden",
+      "target": "Ukraine",
+      "weight": 270412315
+    },
+    {
+      "source": "Sweden",
+      "target": "Ukraine",
+      "weight": 270412315
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Spain",
+      "weight": 263208153
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Spain",
+      "weight": 263208153
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Rep. of Korea",
+      "weight": 251737320
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Rep. of Korea",
+      "weight": 251737320
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Sweden",
+      "weight": 232706515
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Sweden",
+      "weight": 232706515
+    },
+    {
+      "source": "China",
+      "target": "Pakistan",
+      "weight": 229830972
+    },
+    {
+      "source": "China",
+      "target": "Pakistan",
+      "weight": 229830972
+    },
+    {
+      "source": "France",
+      "target": "Rep. of Korea",
+      "weight": 218688015
+    },
+    {
+      "source": "France",
+      "target": "Rep. of Korea",
+      "weight": 218688015
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Belarus",
+      "weight": 208514623
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Belarus",
+      "weight": 208514623
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 199999335
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 199999335
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "Canada",
+      "weight": 199167249
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "Canada",
+      "weight": 199167249
+    },
+    {
+      "source": "Canada",
+      "target": "Germany",
+      "weight": 197030583
+    },
+    {
+      "source": "Canada",
+      "target": "Germany",
+      "weight": 197030583
+    },
+    {
+      "source": "Niger",
+      "target": "France",
+      "weight": 193684861
+    },
+    {
+      "source": "Niger",
+      "target": "France",
+      "weight": 193684861
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "United Arab Emirates",
+      "weight": 182587020
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "United Arab Emirates",
+      "weight": 182587020
+    },
+    {
+      "source": "Australia",
+      "target": "Rep. of Korea",
+      "weight": 179801131
+    },
+    {
+      "source": "Australia",
+      "target": "Rep. of Korea",
+      "weight": 179801131
+    },
+    {
+      "source": "France",
+      "target": "Japan",
+      "weight": 159768839
+    },
+    {
+      "source": "France",
+      "target": "Japan",
+      "weight": 159768839
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 157275722
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 157275722
+    },
+    {
+      "source": "France",
+      "target": "United Kingdom",
+      "weight": 156196838
+    },
+    {
+      "source": "France",
+      "target": "United Kingdom",
+      "weight": 156196838
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 150552116
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 150552116
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Ukraine",
+      "weight": 147156923
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Ukraine",
+      "weight": 147156923
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 144437305
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 144437305
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Czech Rep.",
+      "weight": 140312607
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Czech Rep.",
+      "weight": 140312607
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 139256817
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 139256817
+    },
+    {
+      "source": "Canada",
+      "target": "Netherlands",
+      "weight": 134135794
+    },
+    {
+      "source": "Canada",
+      "target": "Netherlands",
+      "weight": 134135794
+    },
+    {
+      "source": "France",
+      "target": "China",
+      "weight": 130656697
+    },
+    {
+      "source": "France",
+      "target": "China",
+      "weight": 130656697
+    },
+    {
+      "source": "Netherlands",
+      "target": "USA",
+      "weight": 122484061
+    },
+    {
+      "source": "Netherlands",
+      "target": "USA",
+      "weight": 122484061
+    },
+    {
+      "source": "Spain",
+      "target": "France",
+      "weight": 110172260
+    },
+    {
+      "source": "Spain",
+      "target": "France",
+      "weight": 110172260
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 109751111
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 109751111
+    },
+    {
+      "source": "Russian Federation",
+      "target": "France",
+      "weight": 109407201
+    },
+    {
+      "source": "Russian Federation",
+      "target": "France",
+      "weight": 109407201
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "China",
+      "weight": 106004115
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "China",
+      "weight": 106004115
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 104820434
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 104820434
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 103271798
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 103271798
+    },
+    {
+      "source": "Netherlands",
+      "target": "Rep. of Korea",
+      "weight": 102210810
+    },
+    {
+      "source": "Netherlands",
+      "target": "Rep. of Korea",
+      "weight": 102210810
+    },
+    {
+      "source": "United Kingdom",
+      "target": "France",
+      "weight": 101627469
+    },
+    {
+      "source": "United Kingdom",
+      "target": "France",
+      "weight": 101627469
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Sweden",
+      "weight": 100970354
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Sweden",
+      "weight": 100970354
+    },
+    {
+      "source": "USA",
+      "target": "Taiwan, China",
+      "weight": 97539022
+    },
+    {
+      "source": "USA",
+      "target": "Taiwan, China",
+      "weight": 97539022
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 97350611
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 97350611
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "France",
+      "weight": 97320459
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "France",
+      "weight": 97320459
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Bangladesh",
+      "weight": 96453400
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Bangladesh",
+      "weight": 96453400
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 94753214
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 94753214
+    },
+    {
+      "source": "Australia",
+      "target": "France",
+      "weight": 90892799
+    },
+    {
+      "source": "Australia",
+      "target": "France",
+      "weight": 90892799
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "France",
+      "weight": 89067895
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "France",
+      "weight": 89067895
+    },
+    {
+      "source": "Germany",
+      "target": "Sweden",
+      "weight": 87132056
+    },
+    {
+      "source": "Germany",
+      "target": "Sweden",
+      "weight": 87132056
+    },
+    {
+      "source": "Spain",
+      "target": "Sweden",
+      "weight": 83936087
+    },
+    {
+      "source": "Spain",
+      "target": "Sweden",
+      "weight": 83936087
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Germany",
+      "weight": 79521770
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Germany",
+      "weight": 79521770
+    },
+    {
+      "source": "Namibia",
+      "target": "France",
+      "weight": 74026851
+    },
+    {
+      "source": "Namibia",
+      "target": "France",
+      "weight": 74026851
+    },
+    {
+      "source": "Canada",
+      "target": "Taiwan, China",
+      "weight": 72759062
+    },
+    {
+      "source": "Canada",
+      "target": "Taiwan, China",
+      "weight": 72759062
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "weight": 70576800
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "weight": 70576800
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 70254527
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 70254527
+    },
+    {
+      "source": "Germany",
+      "target": "Finland",
+      "weight": 68946682
+    },
+    {
+      "source": "Germany",
+      "target": "Finland",
+      "weight": 68946682
+    },
+    {
+      "source": "Canada",
+      "target": "Japan",
+      "weight": 67609207
+    },
+    {
+      "source": "Canada",
+      "target": "Japan",
+      "weight": 67609207
+    },
+    {
+      "source": "France",
+      "target": "United Kingdom",
+      "weight": 66965447
+    },
+    {
+      "source": "France",
+      "target": "United Kingdom",
+      "weight": 66965447
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Bulgaria",
+      "weight": 66717089
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Bulgaria",
+      "weight": 66717089
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 65544905
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 65544905
+    },
+    {
+      "source": "Germany",
+      "target": "China",
+      "weight": 64425633
+    },
+    {
+      "source": "Germany",
+      "target": "China",
+      "weight": 64425633
+    },
+    {
+      "source": "China",
+      "target": "Kazakhstan",
+      "weight": 64144349
+    },
+    {
+      "source": "China",
+      "target": "Kazakhstan",
+      "weight": 64144349
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 63816592
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 63816592
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 63123461
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 63123461
+    },
+    {
+      "source": "Niger",
+      "target": "Canada",
+      "weight": 58280095
+    },
+    {
+      "source": "Niger",
+      "target": "Canada",
+      "weight": 58280095
+    },
+    {
+      "source": "Thailand",
+      "target": "China",
+      "weight": 58120398
+    },
+    {
+      "source": "Thailand",
+      "target": "China",
+      "weight": 58120398
+    },
+    {
+      "source": "China",
+      "target": "India",
+      "weight": 57099529
+    },
+    {
+      "source": "China",
+      "target": "India",
+      "weight": 57099529
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Slovakia",
+      "weight": 56135161
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Slovakia",
+      "weight": 56135161
+    },
+    {
+      "source": "Germany",
+      "target": "Switzerland",
+      "weight": 54960519
+    },
+    {
+      "source": "Germany",
+      "target": "Switzerland",
+      "weight": 54960519
+    },
+    {
+      "source": "Sweden",
+      "target": "Germany",
+      "weight": 54847704
+    },
+    {
+      "source": "Sweden",
+      "target": "Germany",
+      "weight": 54847704
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 53397551
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 53397551
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 53103644
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 53103644
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Hungary",
+      "weight": 53031707
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Hungary",
+      "weight": 53031707
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Germany",
+      "weight": 52174794
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Germany",
+      "weight": 52174794
+    },
+    {
+      "source": "Japan",
+      "target": "USA",
+      "weight": 51491555
+    },
+    {
+      "source": "Japan",
+      "target": "USA",
+      "weight": 51491555
+    },
+    {
+      "source": "USA",
+      "target": "Rep. of Korea",
+      "weight": 50702920
+    },
+    {
+      "source": "USA",
+      "target": "Rep. of Korea",
+      "weight": 50702920
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Rep. of Korea",
+      "weight": 50122593
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Rep. of Korea",
+      "weight": 50122593
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 48415478
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 48415478
+    },
+    {
+      "source": "Spain",
+      "target": "Belgium",
+      "weight": 48278064
+    },
+    {
+      "source": "Spain",
+      "target": "Belgium",
+      "weight": 48278064
+    },
+    {
+      "source": "China",
+      "target": "United Arab Emirates",
+      "weight": 46963578
+    },
+    {
+      "source": "China",
+      "target": "United Arab Emirates",
+      "weight": 46963578
+    },
+    {
+      "source": "China",
+      "target": "Norway",
+      "weight": 46510955
+    },
+    {
+      "source": "China",
+      "target": "Norway",
+      "weight": 46510955
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 46229953
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 46229953
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 45811170
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 45811170
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Turkey",
+      "weight": 45227837
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Turkey",
+      "weight": 45227837
+    },
+    {
+      "source": "Japan",
+      "target": "USA",
+      "weight": 44788731
+    },
+    {
+      "source": "Japan",
+      "target": "USA",
+      "weight": 44788731
+    },
+    {
+      "source": "Niger",
+      "target": "Rep. of Korea",
+      "weight": 44625972
+    },
+    {
+      "source": "Niger",
+      "target": "Rep. of Korea",
+      "weight": 44625972
+    },
+    {
+      "source": "Israel",
+      "target": "China",
+      "weight": 44306155
+    },
+    {
+      "source": "Israel",
+      "target": "China",
+      "weight": 44306155
+    },
+    {
+      "source": "Germany",
+      "target": "Sweden",
+      "weight": 43766852
+    },
+    {
+      "source": "Germany",
+      "target": "Sweden",
+      "weight": 43766852
+    },
+    {
+      "source": "Germany",
+      "target": "United Kingdom",
+      "weight": 43473084
+    },
+    {
+      "source": "Germany",
+      "target": "United Kingdom",
+      "weight": 43473084
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 42192309
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 42192309
+    },
+    {
+      "source": "Australia",
+      "target": "USA",
+      "weight": 42086869
+    },
+    {
+      "source": "Australia",
+      "target": "USA",
+      "weight": 42086869
+    },
+    {
+      "source": "United Kingdom",
+      "target": "China",
+      "weight": 40831789
+    },
+    {
+      "source": "United Kingdom",
+      "target": "China",
+      "weight": 40831789
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "weight": 40652085
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "weight": 40652085
+    },
+    {
+      "source": "China",
+      "target": "Germany",
+      "weight": 40094819
+    },
+    {
+      "source": "China",
+      "target": "Germany",
+      "weight": 40094819
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Finland",
+      "weight": 37787712
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Finland",
+      "weight": 37787712
+    },
+    {
+      "source": "Spain",
+      "target": "Finland",
+      "weight": 37099950
+    },
+    {
+      "source": "Spain",
+      "target": "Finland",
+      "weight": 37099950
+    },
+    {
+      "source": "USA",
+      "target": "Rep. of Korea",
+      "weight": 36928353
+    },
+    {
+      "source": "USA",
+      "target": "Rep. of Korea",
+      "weight": 36928353
+    },
+    {
+      "source": "Sweden",
+      "target": "Finland",
+      "weight": 36760177
+    },
+    {
+      "source": "Sweden",
+      "target": "Finland",
+      "weight": 36760177
+    },
+    {
+      "source": "China",
+      "target": "Greece",
+      "weight": 36520195
+    },
+    {
+      "source": "China",
+      "target": "Greece",
+      "weight": 36520195
+    },
+    {
+      "source": "France",
+      "target": "South Africa",
+      "weight": 36003888
+    },
+    {
+      "source": "France",
+      "target": "South Africa",
+      "weight": 36003888
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "China",
+      "weight": 35963233
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "China",
+      "weight": 35963233
+    },
+    {
+      "source": "Netherlands",
+      "target": "Sweden",
+      "weight": 35911177
+    },
+    {
+      "source": "Netherlands",
+      "target": "Sweden",
+      "weight": 35911177
+    },
+    {
+      "source": "Namibia",
+      "target": "Canada",
+      "weight": 35867280
+    },
+    {
+      "source": "Namibia",
+      "target": "Canada",
+      "weight": 35867280
+    },
+    {
+      "source": "Niger",
+      "target": "Canada",
+      "weight": 35658170
+    },
+    {
+      "source": "Niger",
+      "target": "Canada",
+      "weight": 35658170
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 35648753
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 35648753
+    },
+    {
+      "source": "China",
+      "target": "Bahrain",
+      "weight": 35596149
+    },
+    {
+      "source": "China",
+      "target": "Bahrain",
+      "weight": 35596149
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 34981510
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 34981510
+    },
+    {
+      "source": "Belgium",
+      "target": "USA",
+      "weight": 34663364
+    },
+    {
+      "source": "Belgium",
+      "target": "USA",
+      "weight": 34663364
+    },
+    {
+      "source": "Finland",
+      "target": "Taiwan, China",
+      "weight": 34135101
+    },
+    {
+      "source": "Finland",
+      "target": "Taiwan, China",
+      "weight": 34135101
+    },
+    {
+      "source": "Ukraine",
+      "target": "Russian Federation",
+      "weight": 32954856
+    },
+    {
+      "source": "Ukraine",
+      "target": "Russian Federation",
+      "weight": 32954856
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 32623634
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 32623634
+    },
+    {
+      "source": "France",
+      "target": "Sweden",
+      "weight": 32127021
+    },
+    {
+      "source": "France",
+      "target": "Sweden",
+      "weight": 32127021
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 31928549
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 31928549
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 29270708
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 29270708
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 29215756
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 29215756
+    },
+    {
+      "source": "China",
+      "target": "Saudi Arabia",
+      "weight": 28949802
+    },
+    {
+      "source": "China",
+      "target": "Saudi Arabia",
+      "weight": 28949802
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 28809104
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 28809104
+    },
+    {
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "weight": 28692469
+    },
+    {
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "weight": 28692469
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Kazakhstan",
+      "weight": 28552889
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Kazakhstan",
+      "weight": 28552889
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 28441322
+    },
+    {
+      "source": "Canada",
+      "target": "USA",
+      "weight": 28441322
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Switzerland",
+      "weight": 27541404
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Switzerland",
+      "weight": 27541404
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Armenia",
+      "weight": 27413022
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Armenia",
+      "weight": 27413022
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 27338043
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 27338043
+    },
+    {
+      "source": "China",
+      "target": "Nigeria",
+      "weight": 26801362
+    },
+    {
+      "source": "China",
+      "target": "Nigeria",
+      "weight": 26801362
+    },
+    {
+      "source": "USA",
+      "target": "Ukraine",
+      "weight": 26722677
+    },
+    {
+      "source": "USA",
+      "target": "Ukraine",
+      "weight": 26722677
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 26500286
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 26500286
+    },
+    {
+      "source": "Netherlands",
+      "target": "France",
+      "weight": 26356064
+    },
+    {
+      "source": "Netherlands",
+      "target": "France",
+      "weight": 26356064
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 25822579
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 25822579
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 25618828
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 25618828
+    },
+    {
+      "source": "USA",
+      "target": "Netherlands",
+      "weight": 25188594
+    },
+    {
+      "source": "USA",
+      "target": "Netherlands",
+      "weight": 25188594
+    },
+    {
+      "source": "China",
+      "target": "Pakistan",
+      "weight": 25006808
+    },
+    {
+      "source": "China",
+      "target": "Pakistan",
+      "weight": 25006808
+    },
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 25002372
+    },
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 25002372
+    },
+    {
+      "source": "Canada",
+      "target": "Brazil",
+      "weight": 24485138
+    },
+    {
+      "source": "Canada",
+      "target": "Brazil",
+      "weight": 24485138
+    },
+    {
+      "source": "USA",
+      "target": "Norway",
+      "weight": 24482062
+    },
+    {
+      "source": "USA",
+      "target": "Norway",
+      "weight": 24482062
+    },
+    {
+      "source": "France",
+      "target": "Russian Federation",
+      "weight": 24471419
+    },
+    {
+      "source": "France",
+      "target": "Russian Federation",
+      "weight": 24471419
+    },
+    {
+      "source": "China",
+      "target": "Thailand",
+      "weight": 23930780
+    },
+    {
+      "source": "China",
+      "target": "Thailand",
+      "weight": 23930780
+    },
+    {
+      "source": "Madagascar",
+      "target": "China",
+      "weight": 23783869
+    },
+    {
+      "source": "Madagascar",
+      "target": "China",
+      "weight": 23783869
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 23601793
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 23601793
+    },
+    {
+      "source": "Canada",
+      "target": "Romania",
+      "weight": 23365632
+    },
+    {
+      "source": "Canada",
+      "target": "Romania",
+      "weight": 23365632
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 23139400
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 23139400
+    },
+    {
+      "source": "Canada",
+      "target": "United Kingdom",
+      "weight": 23119326
+    },
+    {
+      "source": "Canada",
+      "target": "United Kingdom",
+      "weight": 23119326
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 23050472
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 23050472
+    },
+    {
+      "source": "Netherlands",
+      "target": "France",
+      "weight": 22733396
+    },
+    {
+      "source": "Netherlands",
+      "target": "France",
+      "weight": 22733396
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "weight": 22588078
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "weight": 22588078
+    },
+    {
+      "source": "USA",
+      "target": "Brazil",
+      "weight": 22325519
+    },
+    {
+      "source": "USA",
+      "target": "Brazil",
+      "weight": 22325519
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 21990102
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 21990102
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Japan",
+      "weight": 21951130
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Japan",
+      "weight": 21951130
+    },
+    {
+      "source": "Netherlands",
+      "target": "Belgium",
+      "weight": 21853558
+    },
+    {
+      "source": "Netherlands",
+      "target": "Belgium",
+      "weight": 21853558
+    },
+    {
+      "source": "Germany",
+      "target": "Spain",
+      "weight": 21587870
+    },
+    {
+      "source": "Germany",
+      "target": "Spain",
+      "weight": 21587870
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 21460933
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 21460933
+    },
+    {
+      "source": "Spain",
+      "target": "Belgium",
+      "weight": 20700664
+    },
+    {
+      "source": "Spain",
+      "target": "Belgium",
+      "weight": 20700664
+    },
+    {
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "weight": 20489817
+    },
+    {
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "weight": 20489817
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 20393638
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 20393638
+    },
+    {
+      "source": "USA",
+      "target": "Sweden",
+      "weight": 20348079
+    },
+    {
+      "source": "USA",
+      "target": "Sweden",
+      "weight": 20348079
+    },
+    {
+      "source": "Germany",
+      "target": "Rep. of Korea",
+      "weight": 20088288
+    },
+    {
+      "source": "Germany",
+      "target": "Rep. of Korea",
+      "weight": 20088288
+    },
+    {
+      "source": "Georgia",
+      "target": "Romania",
+      "weight": 19863968
+    },
+    {
+      "source": "Georgia",
+      "target": "Romania",
+      "weight": 19863968
+    },
+    {
+      "source": "Taiwan, China",
+      "target": "USA",
+      "weight": 19675165
+    },
+    {
+      "source": "Taiwan, China",
+      "target": "USA",
+      "weight": 19675165
+    },
+    {
+      "source": "China",
+      "target": "Italy",
+      "weight": 19620956
+    },
+    {
+      "source": "China",
+      "target": "Italy",
+      "weight": 19620956
+    },
+    {
+      "source": "China",
+      "target": "Netherlands",
+      "weight": 19517977
+    },
+    {
+      "source": "China",
+      "target": "Netherlands",
+      "weight": 19517977
+    },
+    {
+      "source": "Turkey",
+      "target": "USA",
+      "weight": 19228265
+    },
+    {
+      "source": "Turkey",
+      "target": "USA",
+      "weight": 19228265
+    },
+    {
+      "source": "South Africa",
+      "target": "USA",
+      "weight": 19020357
+    },
+    {
+      "source": "South Africa",
+      "target": "USA",
+      "weight": 19020357
+    },
+    {
+      "source": "Finland",
+      "target": "China",
+      "weight": 18837732
+    },
+    {
+      "source": "Finland",
+      "target": "China",
+      "weight": 18837732
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 18586718
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 18586718
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Argentina",
+      "weight": 18548575
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Argentina",
+      "weight": 18548575
+    },
+    {
+      "source": "Netherlands",
+      "target": "Italy",
+      "weight": 18324616
+    },
+    {
+      "source": "Netherlands",
+      "target": "Italy",
+      "weight": 18324616
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 18099135
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 18099135
+    },
+    {
+      "source": "United Kingdom",
+      "target": "France",
+      "weight": 18018661
+    },
+    {
+      "source": "United Kingdom",
+      "target": "France",
+      "weight": 18018661
+    },
+    {
+      "source": "Finland",
+      "target": "Rep. of Korea",
+      "weight": 17917091
+    },
+    {
+      "source": "Finland",
+      "target": "Rep. of Korea",
+      "weight": 17917091
+    },
+    {
+      "source": "Japan",
+      "target": "United Kingdom",
+      "weight": 17887033
+    },
+    {
+      "source": "Japan",
+      "target": "United Kingdom",
+      "weight": 17887033
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Taiwan, China",
+      "weight": 17876153
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Taiwan, China",
+      "weight": 17876153
+    },
+    {
+      "source": "Belgium",
+      "target": "Japan",
+      "weight": 17514735
+    },
+    {
+      "source": "Belgium",
+      "target": "Japan",
+      "weight": 17514735
+    },
+    {
+      "source": "China",
+      "target": "Turkey",
+      "weight": 16884459
+    },
+    {
+      "source": "China",
+      "target": "Turkey",
+      "weight": 16884459
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 16634517
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 16634517
+    },
+    {
+      "source": "Netherlands",
+      "target": "Spain",
+      "weight": 16506529
+    },
+    {
+      "source": "Netherlands",
+      "target": "Spain",
+      "weight": 16506529
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Sweden",
+      "weight": 16381613
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Sweden",
+      "weight": 16381613
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "USA",
+      "weight": 16179574
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "USA",
+      "weight": 16179574
+    },
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 16134695
+    },
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 16134695
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 16126184
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 16126184
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Germany",
+      "weight": 15637071
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Germany",
+      "weight": 15637071
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 15566917
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 15566917
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 15479237
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 15479237
+    },
+    {
+      "source": "Netherlands",
+      "target": "Sweden",
+      "weight": 15371768
+    },
+    {
+      "source": "Netherlands",
+      "target": "Sweden",
+      "weight": 15371768
+    },
+    {
+      "source": "South Africa",
+      "target": "Canada",
+      "weight": 15151447
+    },
+    {
+      "source": "South Africa",
+      "target": "Canada",
+      "weight": 15151447
+    },
+    {
+      "source": "France",
+      "target": "Japan",
+      "weight": 15073151
+    },
+    {
+      "source": "France",
+      "target": "Japan",
+      "weight": 15073151
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 14915226
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 14915226
+    },
+    {
+      "source": "Japan",
+      "target": "China",
+      "weight": 14799407
+    },
+    {
+      "source": "Japan",
+      "target": "China",
+      "weight": 14799407
+    },
+    {
+      "source": "France",
+      "target": "China",
+      "weight": 14713896
+    },
+    {
+      "source": "France",
+      "target": "China",
+      "weight": 14713896
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Brazil",
+      "weight": 14679456
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Brazil",
+      "weight": 14679456
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 14586108
+    },
+    {
+      "source": "Russian Federation",
+      "target": "China",
+      "weight": 14586108
+    },
+    {
+      "source": "China",
+      "target": "South Africa",
+      "weight": 14281079
+    },
+    {
+      "source": "China",
+      "target": "South Africa",
+      "weight": 14281079
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 14241357
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 14241357
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 13973472
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 13973472
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 13827174
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 13827174
+    },
+    {
+      "source": "Israel",
+      "target": "USA",
+      "weight": 13771955
+    },
+    {
+      "source": "Israel",
+      "target": "USA",
+      "weight": 13771955
+    },
+    {
+      "source": "South Africa",
+      "target": "China",
+      "weight": 13711748
+    },
+    {
+      "source": "South Africa",
+      "target": "China",
+      "weight": 13711748
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Germany",
+      "weight": 13578526
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Germany",
+      "weight": 13578526
+    },
+    {
+      "source": "Ukraine",
+      "target": "Russian Federation",
+      "weight": 13514520
+    },
+    {
+      "source": "Ukraine",
+      "target": "Russian Federation",
+      "weight": 13514520
+    },
+    {
+      "source": "Japan",
+      "target": "Taiwan, China",
+      "weight": 13419345
+    },
+    {
+      "source": "Japan",
+      "target": "Taiwan, China",
+      "weight": 13419345
+    },
+    {
+      "source": "Canada",
+      "target": "Russian Federation",
+      "weight": 13378715
+    },
+    {
+      "source": "Canada",
+      "target": "Russian Federation",
+      "weight": 13378715
+    },
+    {
+      "source": "China",
+      "target": "Germany",
+      "weight": 13277511
+    },
+    {
+      "source": "China",
+      "target": "Germany",
+      "weight": 13277511
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 13248359
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 13248359
+    },
+    {
+      "source": "Canada",
+      "target": "Japan",
+      "weight": 13031430
+    },
+    {
+      "source": "Canada",
+      "target": "Japan",
+      "weight": 13031430
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 12967587
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 12967587
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 12762019
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 12762019
+    },
+    {
+      "source": "United Kingdom",
+      "target": "USA",
+      "weight": 12423746
+    },
+    {
+      "source": "United Kingdom",
+      "target": "USA",
+      "weight": 12423746
+    },
+    {
+      "source": "Netherlands",
+      "target": "Japan",
+      "weight": 12301476
+    },
+    {
+      "source": "Netherlands",
+      "target": "Japan",
+      "weight": 12301476
+    },
+    {
+      "source": "South Africa",
+      "target": "Guyana",
+      "weight": 12127676
+    },
+    {
+      "source": "South Africa",
+      "target": "Guyana",
+      "weight": 12127676
+    },
+    {
+      "source": "Italy",
+      "target": "USA",
+      "weight": 12060008
+    },
+    {
+      "source": "Italy",
+      "target": "USA",
+      "weight": 12060008
+    },
+    {
+      "source": "Netherlands",
+      "target": "Brazil",
+      "weight": 12053989
+    },
+    {
+      "source": "Netherlands",
+      "target": "Brazil",
+      "weight": 12053989
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 11947264
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 11947264
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 11903749
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "weight": 11903749
+    },
+    {
+      "source": "Japan",
+      "target": "Taiwan, China",
+      "weight": 11861836
+    },
+    {
+      "source": "Japan",
+      "target": "Taiwan, China",
+      "weight": 11861836
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "weight": 11823866
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "weight": 11823866
+    },
+    {
+      "source": "Norway",
+      "target": "Netherlands",
+      "weight": 11812661
+    },
+    {
+      "source": "Norway",
+      "target": "Netherlands",
+      "weight": 11812661
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 11757198
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 11757198
+    },
+    {
+      "source": "USA",
+      "target": "Costa Rica",
+      "weight": 11741171
+    },
+    {
+      "source": "USA",
+      "target": "Costa Rica",
+      "weight": 11741171
+    },
+    {
+      "source": "USA",
+      "target": "Australia",
+      "weight": 11654907
+    },
+    {
+      "source": "USA",
+      "target": "Australia",
+      "weight": 11654907
+    },
+    {
+      "source": "Japan",
+      "target": "Singapore",
+      "weight": 11492215
+    },
+    {
+      "source": "Japan",
+      "target": "Singapore",
+      "weight": 11492215
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Belgium",
+      "weight": 11471571
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Belgium",
+      "weight": 11471571
+    },
+    {
+      "source": "Japan",
+      "target": "Malaysia",
+      "weight": 11440570
+    },
+    {
+      "source": "Japan",
+      "target": "Malaysia",
+      "weight": 11440570
+    },
+    {
+      "source": "Belgium",
+      "target": "France",
+      "weight": 11427280
+    },
+    {
+      "source": "Belgium",
+      "target": "France",
+      "weight": 11427280
+    },
+    {
+      "source": "France",
+      "target": "Rep. of Korea",
+      "weight": 11299682
+    },
+    {
+      "source": "France",
+      "target": "Rep. of Korea",
+      "weight": 11299682
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 11227324
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 11227324
+    },
+    {
+      "source": "Israel",
+      "target": "Brazil",
+      "weight": 11220119
+    },
+    {
+      "source": "Israel",
+      "target": "Brazil",
+      "weight": 11220119
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Italy",
+      "weight": 11135948
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Italy",
+      "weight": 11135948
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 11120758
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 11120758
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 10945299
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 10945299
+    },
+    {
+      "source": "Netherlands",
+      "target": "Russian Federation",
+      "weight": 10790447
+    },
+    {
+      "source": "Netherlands",
+      "target": "Russian Federation",
+      "weight": 10790447
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 10719244
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 10719244
+    },
+    {
+      "source": "Italy",
+      "target": "United Kingdom",
+      "weight": 10694540
+    },
+    {
+      "source": "Italy",
+      "target": "United Kingdom",
+      "weight": 10694540
+    },
+    {
+      "source": "Germany",
+      "target": "China",
+      "weight": 10506927
+    },
+    {
+      "source": "Germany",
+      "target": "China",
+      "weight": 10506927
+    },
+    {
+      "source": "France",
+      "target": "Belgium",
+      "weight": 10306445
+    },
+    {
+      "source": "France",
+      "target": "Belgium",
+      "weight": 10306445
+    },
+    {
+      "source": "Germany",
+      "target": "Italy",
+      "weight": 10241434
+    },
+    {
+      "source": "Germany",
+      "target": "Italy",
+      "weight": 10241434
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 10155134
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 10155134
+    },
+    {
+      "source": "France",
+      "target": "Australia",
+      "weight": 10114228
+    },
+    {
+      "source": "France",
+      "target": "Australia",
+      "weight": 10114228
+    },
+    {
+      "source": "Iran",
+      "target": "China",
+      "weight": 10082958
+    },
+    {
+      "source": "Iran",
+      "target": "China",
+      "weight": 10082958
+    },
+    {
+      "source": "Netherlands",
+      "target": "France",
+      "weight": 10011923
+    },
+    {
+      "source": "Netherlands",
+      "target": "France",
+      "weight": 10011923
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 9939259
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 9939259
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 9604315
+    },
+    {
+      "source": "China",
+      "target": "Taiwan, China",
+      "weight": 9604315
+    },
+    {
+      "source": "Netherlands",
+      "target": "Rep. of Korea",
+      "weight": 9539787
+    },
+    {
+      "source": "Netherlands",
+      "target": "Rep. of Korea",
+      "weight": 9539787
+    },
+    {
+      "source": "Australia",
+      "target": "USA",
+      "weight": 9512000
+    },
+    {
+      "source": "Australia",
+      "target": "USA",
+      "weight": 9512000
+    },
+    {
+      "source": "China",
+      "target": "Qatar",
+      "weight": 9344289
+    },
+    {
+      "source": "China",
+      "target": "Qatar",
+      "weight": 9344289
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 9267092
+    },
+    {
+      "source": "Canada",
+      "target": "Rep. of Korea",
+      "weight": 9267092
+    },
+    {
+      "source": "Belgium",
+      "target": "Netherlands",
+      "weight": 9259798
+    },
+    {
+      "source": "Belgium",
+      "target": "Netherlands",
+      "weight": 9259798
+    },
+    {
+      "source": "Canada",
+      "target": "Germany",
+      "weight": 9219105
+    },
+    {
+      "source": "Canada",
+      "target": "Germany",
+      "weight": 9219105
+    },
+    {
+      "source": "Austria",
+      "target": "Japan",
+      "weight": 9202426
+    },
+    {
+      "source": "Austria",
+      "target": "Japan",
+      "weight": 9202426
+    },
+    {
+      "source": "Canada",
+      "target": "Belgium",
+      "weight": 9179456
+    },
+    {
+      "source": "Canada",
+      "target": "Belgium",
+      "weight": 9179456
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 9169097
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 9169097
+    },
+    {
+      "source": "Germany",
+      "target": "China",
+      "weight": 9114977
+    },
+    {
+      "source": "Germany",
+      "target": "China",
+      "weight": 9114977
+    },
+    {
+      "source": "China",
+      "target": "Slovenia",
+      "weight": 9105960
+    },
+    {
+      "source": "China",
+      "target": "Slovenia",
+      "weight": 9105960
+    },
+    {
+      "source": "Germany",
+      "target": "Switzerland",
+      "weight": 9051391
+    },
+    {
+      "source": "Germany",
+      "target": "Switzerland",
+      "weight": 9051391
+    },
+    {
+      "source": "Netherlands",
+      "target": "Switzerland",
+      "weight": 9014048
+    },
+    {
+      "source": "Netherlands",
+      "target": "Switzerland",
+      "weight": 9014048
+    },
+    {
+      "source": "USA",
+      "target": "Sweden",
+      "weight": 8987210
+    },
+    {
+      "source": "USA",
+      "target": "Sweden",
+      "weight": 8987210
+    },
+    {
+      "source": "Netherlands",
+      "target": "Brazil",
+      "weight": 8938025
+    },
+    {
+      "source": "Netherlands",
+      "target": "Brazil",
+      "weight": 8938025
+    },
+    {
+      "source": "Netherlands",
+      "target": "Greece",
+      "weight": 8897204
+    },
+    {
+      "source": "Netherlands",
+      "target": "Greece",
+      "weight": 8897204
+    },
+    {
+      "source": "Australia",
+      "target": "Canada",
+      "weight": 8809447
+    },
+    {
+      "source": "Australia",
+      "target": "Canada",
+      "weight": 8809447
+    },
+    {
+      "source": "Belgium",
+      "target": "China",
+      "weight": 8775783
+    },
+    {
+      "source": "Belgium",
+      "target": "China",
+      "weight": 8775783
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Canada",
+      "weight": 8762429
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Canada",
+      "weight": 8762429
+    },
+    {
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "weight": 8721536
+    },
+    {
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "weight": 8721536
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 8706897
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 8706897
+    },
+    {
+      "source": "China",
+      "target": "Germany",
+      "weight": 8691861
+    },
+    {
+      "source": "China",
+      "target": "Germany",
+      "weight": 8691861
+    },
+    {
+      "source": "China",
+      "target": "Indonesia",
+      "weight": 8646910
+    },
+    {
+      "source": "China",
+      "target": "Indonesia",
+      "weight": 8646910
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "USA",
+      "weight": 8353239
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "USA",
+      "weight": 8353239
+    },
+    {
+      "source": "Denmark",
+      "target": "France",
+      "weight": 8264519
+    },
+    {
+      "source": "Denmark",
+      "target": "France",
+      "weight": 8264519
+    },
+    {
+      "source": "Israel",
+      "target": "Canada",
+      "weight": 8240687
+    },
+    {
+      "source": "Israel",
+      "target": "Canada",
+      "weight": 8240687
+    },
+    {
+      "source": "China",
+      "target": "Croatia",
+      "weight": 8203308
+    },
+    {
+      "source": "China",
+      "target": "Croatia",
+      "weight": 8203308
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 8200534
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 8200534
+    },
+    {
+      "source": "Canada",
+      "target": "Brazil",
+      "weight": 8151011
+    },
+    {
+      "source": "Canada",
+      "target": "Brazil",
+      "weight": 8151011
+    },
+    {
+      "source": "USA",
+      "target": "Taiwan, China",
+      "weight": 8133280
+    },
+    {
+      "source": "USA",
+      "target": "Taiwan, China",
+      "weight": 8133280
+    },
+    {
+      "source": "China",
+      "target": "Malaysia",
+      "weight": 8111349
+    },
+    {
+      "source": "China",
+      "target": "Malaysia",
+      "weight": 8111349
+    },
+    {
+      "source": "Belgium",
+      "target": "Turkey",
+      "weight": 8024458
+    },
+    {
+      "source": "Belgium",
+      "target": "Turkey",
+      "weight": 8024458
+    },
+    {
+      "source": "USA",
+      "target": "Netherlands",
+      "weight": 7966744
+    },
+    {
+      "source": "USA",
+      "target": "Netherlands",
+      "weight": 7966744
+    },
+    {
+      "source": "USA",
+      "target": "Singapore",
+      "weight": 7942215
+    },
+    {
+      "source": "USA",
+      "target": "Singapore",
+      "weight": 7942215
+    },
+    {
+      "source": "Germany",
+      "target": "Italy",
+      "weight": 7939016
+    },
+    {
+      "source": "Germany",
+      "target": "Italy",
+      "weight": 7939016
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 7771162
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 7771162
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Rep. of Korea",
+      "weight": 7751322
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Rep. of Korea",
+      "weight": 7751322
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Viet Nam",
+      "weight": 7730895
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Viet Nam",
+      "weight": 7730895
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "China",
+      "weight": 7720302
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "China",
+      "weight": 7720302
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Belarus",
+      "weight": 7711069
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Belarus",
+      "weight": 7711069
+    },
+    {
+      "source": "France",
+      "target": "Brazil",
+      "weight": 7676050
+    },
+    {
+      "source": "France",
+      "target": "Brazil",
+      "weight": 7676050
+    },
+    {
+      "source": "Israel",
+      "target": "Italy",
+      "weight": 7611000
+    },
+    {
+      "source": "Israel",
+      "target": "Italy",
+      "weight": 7611000
+    },
+    {
+      "source": "Sweden",
+      "target": "Denmark",
+      "weight": 7602231
+    },
+    {
+      "source": "Sweden",
+      "target": "Denmark",
+      "weight": 7602231
+    },
+    {
+      "source": "Netherlands",
+      "target": "China",
+      "weight": 7517438
+    },
+    {
+      "source": "Netherlands",
+      "target": "China",
+      "weight": 7517438
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "weight": 7489382
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "weight": 7489382
+    },
+    {
+      "source": "Russian Federation",
+      "target": "India",
+      "weight": 7466179
+    },
+    {
+      "source": "Russian Federation",
+      "target": "India",
+      "weight": 7466179
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 7378228
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 7378228
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 7315235
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 7315235
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 7245931
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 7245931
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "weight": 7106731
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "weight": 7106731
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 7097118
+    },
+    {
+      "source": "China",
+      "target": "Rep. of Korea",
+      "weight": 7097118
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 7073337
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 7073337
+    },
+    {
+      "source": "USA",
+      "target": "Singapore",
+      "weight": 7063629
+    },
+    {
+      "source": "USA",
+      "target": "Singapore",
+      "weight": 7063629
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "USA",
+      "weight": 7049967
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "USA",
+      "weight": 7049967
+    },
+    {
+      "source": "China",
+      "target": "United Kingdom",
+      "weight": 6844887
+    },
+    {
+      "source": "China",
+      "target": "United Kingdom",
+      "weight": 6844887
+    },
+    {
+      "source": "France",
+      "target": "Belgium",
+      "weight": 6821922
+    },
+    {
+      "source": "France",
+      "target": "Belgium",
+      "weight": 6821922
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 6776376
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 6776376
+    },
+    {
+      "source": "China",
+      "target": "Spain",
+      "weight": 6618594
+    },
+    {
+      "source": "China",
+      "target": "Spain",
+      "weight": 6618594
+    },
+    {
+      "source": "France",
+      "target": "United Kingdom",
+      "weight": 6574730
+    },
+    {
+      "source": "France",
+      "target": "United Kingdom",
+      "weight": 6574730
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 6560506
+    },
+    {
+      "source": "Germany",
+      "target": "USA",
+      "weight": 6560506
+    },
+    {
+      "source": "China",
+      "target": "Australia",
+      "weight": 6545702
+    },
+    {
+      "source": "China",
+      "target": "Australia",
+      "weight": 6545702
+    },
+    {
+      "source": "Canada",
+      "target": "Switzerland",
+      "weight": 6538331
+    },
+    {
+      "source": "Canada",
+      "target": "Switzerland",
+      "weight": 6538331
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 6523908
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 6523908
+    },
+    {
+      "source": "Finland",
+      "target": "Philippines",
+      "weight": 6458397
+    },
+    {
+      "source": "Finland",
+      "target": "Philippines",
+      "weight": 6458397
+    },
+    {
+      "source": "Germany",
+      "target": "United Kingdom",
+      "weight": 6450625
+    },
+    {
+      "source": "Germany",
+      "target": "United Kingdom",
+      "weight": 6450625
+    },
+    {
+      "source": "Croatia",
+      "target": "USA",
+      "weight": 6367164
+    },
+    {
+      "source": "Croatia",
+      "target": "USA",
+      "weight": 6367164
+    },
+    {
+      "source": "Germany",
+      "target": "Austria",
+      "weight": 6326185
+    },
+    {
+      "source": "Germany",
+      "target": "Austria",
+      "weight": 6326185
+    },
+    {
+      "source": "Japan",
+      "target": "China",
+      "weight": 6230045
+    },
+    {
+      "source": "Japan",
+      "target": "China",
+      "weight": 6230045
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 6214551
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 6214551
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Russian Federation",
+      "weight": 6196340
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Russian Federation",
+      "weight": 6196340
+    },
+    {
+      "source": "China",
+      "target": "Viet Nam",
+      "weight": 6191991
+    },
+    {
+      "source": "China",
+      "target": "Viet Nam",
+      "weight": 6191991
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "China",
+      "weight": 6154022
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "China",
+      "weight": 6154022
+    },
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 6135427
+    },
+    {
+      "source": "Russian Federation",
+      "target": "USA",
+      "weight": 6135427
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 6129711
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 6129711
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 6102802
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 6102802
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 6091569
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 6091569
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Spain",
+      "weight": 6069176
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Spain",
+      "weight": 6069176
+    },
+    {
+      "source": "China",
+      "target": "Mexico",
+      "weight": 6026498
+    },
+    {
+      "source": "China",
+      "target": "Mexico",
+      "weight": 6026498
+    },
+    {
+      "source": "USA",
+      "target": "Belgium",
+      "weight": 6023942
+    },
+    {
+      "source": "USA",
+      "target": "Belgium",
+      "weight": 6023942
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Canada",
+      "weight": 6018355
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Canada",
+      "weight": 6018355
+    },
+    {
+      "source": "Sweden",
+      "target": "France",
+      "weight": 5995809
+    },
+    {
+      "source": "Sweden",
+      "target": "France",
+      "weight": 5995809
+    },
+    {
+      "source": "Italy",
+      "target": "Sweden",
+      "weight": 5905160
+    },
+    {
+      "source": "Italy",
+      "target": "Sweden",
+      "weight": 5905160
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 5893025
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "weight": 5893025
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 5888597
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 5888597
+    },
+    {
+      "source": "Norway",
+      "target": "Germany",
+      "weight": 5842790
+    },
+    {
+      "source": "Norway",
+      "target": "Germany",
+      "weight": 5842790
+    },
+    {
+      "source": "Sweden",
+      "target": "France",
+      "weight": 5824242
+    },
+    {
+      "source": "Sweden",
+      "target": "France",
+      "weight": 5824242
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 5790241
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 5790241
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "USA",
+      "weight": 5788344
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "USA",
+      "weight": 5788344
+    },
+    {
+      "source": "China",
+      "target": "Indonesia",
+      "weight": 5760246
+    },
+    {
+      "source": "China",
+      "target": "Indonesia",
+      "weight": 5760246
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 5754905
+    },
+    {
+      "source": "USA",
+      "target": "Canada",
+      "weight": 5754905
+    },
+    {
+      "source": "Germany",
+      "target": "Austria",
+      "weight": 5679457
+    },
+    {
+      "source": "Germany",
+      "target": "Austria",
+      "weight": 5679457
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 5659576
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 5659576
+    },
+    {
+      "source": "USA",
+      "target": "Saudi Arabia",
+      "weight": 5636377
+    },
+    {
+      "source": "USA",
+      "target": "Saudi Arabia",
+      "weight": 5636377
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 5632299
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 5632299
+    },
+    {
+      "source": "Sweden",
+      "target": "USA",
+      "weight": 5576638
+    },
+    {
+      "source": "Sweden",
+      "target": "USA",
+      "weight": 5576638
+    },
+    {
+      "source": "Belgium",
+      "target": "USA",
+      "weight": 5561066
+    },
+    {
+      "source": "Belgium",
+      "target": "USA",
+      "weight": 5561066
+    },
+    {
+      "source": "China",
+      "target": "Czech Rep.",
+      "weight": 5536317
+    },
+    {
+      "source": "China",
+      "target": "Czech Rep.",
+      "weight": 5536317
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 5519848
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 5519848
+    },
+    {
+      "source": "Austria",
+      "target": "Italy",
+      "weight": 5429314
+    },
+    {
+      "source": "Austria",
+      "target": "Italy",
+      "weight": 5429314
+    },
+    {
+      "source": "Australia",
+      "target": "Netherlands",
+      "weight": 5404998
+    },
+    {
+      "source": "Australia",
+      "target": "Netherlands",
+      "weight": 5404998
+    },
+    {
+      "source": "Netherlands",
+      "target": "Italy",
+      "weight": 5392876
+    },
+    {
+      "source": "Netherlands",
+      "target": "Italy",
+      "weight": 5392876
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 5366381
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 5366381
+    },
+    {
+      "source": "Germany",
+      "target": "Denmark",
+      "weight": 5171553
+    },
+    {
+      "source": "Germany",
+      "target": "Denmark",
+      "weight": 5171553
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 5167921
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 5167921
+    },
+    {
+      "source": "USA",
+      "target": "Hong Kong",
+      "weight": 5113309
+    },
+    {
+      "source": "USA",
+      "target": "Hong Kong",
+      "weight": 5113309
+    },
+    {
+      "source": "Belgium",
+      "target": "Poland",
+      "weight": 5095177
+    },
+    {
+      "source": "Belgium",
+      "target": "Poland",
+      "weight": 5095177
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 5078896
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "weight": 5078896
+    },
+    {
+      "source": "South Africa",
+      "target": "Brazil",
+      "weight": 5033506
+    },
+    {
+      "source": "South Africa",
+      "target": "Brazil",
+      "weight": 5033506
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 5033164
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 5033164
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Czech Rep.",
+      "weight": 5022574
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Czech Rep.",
+      "weight": 5022574
+    },
+    {
+      "source": "Germany",
+      "target": "Kazakhstan",
+      "weight": 4968895
+    },
+    {
+      "source": "Germany",
+      "target": "Kazakhstan",
+      "weight": 4968895
+    },
+    {
+      "source": "USA",
+      "target": "Singapore",
+      "weight": 4968335
+    },
+    {
+      "source": "USA",
+      "target": "Singapore",
+      "weight": 4968335
+    },
+    {
+      "source": "United Kingdom",
+      "target": "India",
+      "weight": 4960784
+    },
+    {
+      "source": "United Kingdom",
+      "target": "India",
+      "weight": 4960784
+    },
+    {
+      "source": "Germany",
+      "target": "Spain",
+      "weight": 4955279
+    },
+    {
+      "source": "Germany",
+      "target": "Spain",
+      "weight": 4955279
+    },
+    {
+      "source": "Netherlands",
+      "target": "Turkey",
+      "weight": 4915817
+    },
+    {
+      "source": "Netherlands",
+      "target": "Turkey",
+      "weight": 4915817
+    },
+    {
+      "source": "Oman",
+      "target": "China",
+      "weight": 4905743
+    },
+    {
+      "source": "Oman",
+      "target": "China",
+      "weight": 4905743
+    },
+    {
+      "source": "Poland",
+      "target": "China",
+      "weight": 4882593
+    },
+    {
+      "source": "Poland",
+      "target": "China",
+      "weight": 4882593
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Bangladesh",
+      "weight": 4836800
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Bangladesh",
+      "weight": 4836800
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 4828167
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 4828167
+    },
+    {
+      "source": "Russian Federation",
+      "target": "United Kingdom",
+      "weight": 4806573
+    },
+    {
+      "source": "Russian Federation",
+      "target": "United Kingdom",
+      "weight": 4806573
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 4799119
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 4799119
+    },
+    {
+      "source": "Spain",
+      "target": "Rep. of Korea",
+      "weight": 4793690
+    },
+    {
+      "source": "Spain",
+      "target": "Rep. of Korea",
+      "weight": 4793690
+    },
+    {
+      "source": "Netherlands",
+      "target": "Austria",
+      "weight": 4779064
+    },
+    {
+      "source": "Netherlands",
+      "target": "Austria",
+      "weight": 4779064
+    },
+    {
+      "source": "Netherlands",
+      "target": "Sweden",
+      "weight": 4772931
+    },
+    {
+      "source": "Netherlands",
+      "target": "Sweden",
+      "weight": 4772931
+    },
+    {
+      "source": "South Africa",
+      "target": "Canada",
+      "weight": 4722041
+    },
+    {
+      "source": "South Africa",
+      "target": "Canada",
+      "weight": 4722041
+    },
+    {
+      "source": "USA",
+      "target": "Argentina",
+      "weight": 4709047
+    },
+    {
+      "source": "USA",
+      "target": "Argentina",
+      "weight": 4709047
+    },
+    {
+      "source": "France",
+      "target": "Rep. of Korea",
+      "weight": 4689853
+    },
+    {
+      "source": "France",
+      "target": "Rep. of Korea",
+      "weight": 4689853
+    },
+    {
+      "source": "France",
+      "target": "Australia",
+      "weight": 4670665
+    },
+    {
+      "source": "France",
+      "target": "Australia",
+      "weight": 4670665
+    },
+    {
+      "source": "China",
+      "target": "Israel",
+      "weight": 4645284
+    },
+    {
+      "source": "China",
+      "target": "Israel",
+      "weight": 4645284
+    },
+    {
+      "source": "China",
+      "target": "Romania",
+      "weight": 4595543
+    },
+    {
+      "source": "China",
+      "target": "Romania",
+      "weight": 4595543
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "Viet Nam",
+      "weight": 4552095
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "Viet Nam",
+      "weight": 4552095
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "weight": 4530683
+    },
+    {
+      "source": "China",
+      "target": "Canada",
+      "weight": 4530683
+    },
+    {
+      "source": "Belgium",
+      "target": "Romania",
+      "weight": 4516525
+    },
+    {
+      "source": "Belgium",
+      "target": "Romania",
+      "weight": 4516525
+    },
+    {
+      "source": "France",
+      "target": "Taiwan, China",
+      "weight": 4499193
+    },
+    {
+      "source": "France",
+      "target": "Taiwan, China",
+      "weight": 4499193
+    },
+    {
+      "source": "China",
+      "target": "United Kingdom",
+      "weight": 4446916
+    },
+    {
+      "source": "China",
+      "target": "United Kingdom",
+      "weight": 4446916
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 4443488
+    },
+    {
+      "source": "USA",
+      "target": "Germany",
+      "weight": 4443488
+    },
+    {
+      "source": "USA",
+      "target": "Taiwan, China",
+      "weight": 4388523
+    },
+    {
+      "source": "USA",
+      "target": "Taiwan, China",
+      "weight": 4388523
+    },
+    {
+      "source": "Austria",
+      "target": "USA",
+      "weight": 4363074
+    },
+    {
+      "source": "Austria",
+      "target": "USA",
+      "weight": 4363074
+    },
+    {
+      "source": "China",
+      "target": "Singapore",
+      "weight": 4359252
+    },
+    {
+      "source": "China",
+      "target": "Singapore",
+      "weight": 4359252
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "China",
+      "weight": 4349112
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "China",
+      "weight": 4349112
+    },
+    {
+      "source": "France",
+      "target": "Netherlands",
+      "weight": 4325860
+    },
+    {
+      "source": "France",
+      "target": "Netherlands",
+      "weight": 4325860
+    },
+    {
+      "source": "USA",
+      "target": "Sweden",
+      "weight": 4322296
+    },
+    {
+      "source": "USA",
+      "target": "Sweden",
+      "weight": 4322296
+    },
+    {
+      "source": "France",
+      "target": "Brazil",
+      "weight": 4300179
+    },
+    {
+      "source": "France",
+      "target": "Brazil",
+      "weight": 4300179
+    },
+    {
+      "source": "France",
+      "target": "Spain",
+      "weight": 4288956
+    },
+    {
+      "source": "France",
+      "target": "Spain",
+      "weight": 4288956
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 4253229
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 4253229
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 4227415
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 4227415
+    },
+    {
+      "source": "Italy",
+      "target": "Bulgaria",
+      "weight": 4182122
+    },
+    {
+      "source": "Italy",
+      "target": "Bulgaria",
+      "weight": 4182122
+    },
+    {
+      "source": "Netherlands",
+      "target": "Czech Rep.",
+      "weight": 4159808
+    },
+    {
+      "source": "Netherlands",
+      "target": "Czech Rep.",
+      "weight": 4159808
+    },
+    {
+      "source": "Argentina",
+      "target": "Canada",
+      "weight": 4152211
+    },
+    {
+      "source": "Argentina",
+      "target": "Canada",
+      "weight": 4152211
+    },
+    {
+      "source": "China",
+      "target": "Mexico",
+      "weight": 4149560
+    },
+    {
+      "source": "China",
+      "target": "Mexico",
+      "weight": 4149560
+    },
+    {
+      "source": "China",
+      "target": "Viet Nam",
+      "weight": 4135771
+    },
+    {
+      "source": "China",
+      "target": "Viet Nam",
+      "weight": 4135771
+    },
+    {
+      "source": "Norway",
+      "target": "Taiwan, China",
+      "weight": 4114470
+    },
+    {
+      "source": "Norway",
+      "target": "Taiwan, China",
+      "weight": 4114470
+    },
+    {
+      "source": "China",
+      "target": "New Zealand",
+      "weight": 4102838
+    },
+    {
+      "source": "China",
+      "target": "New Zealand",
+      "weight": 4102838
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Poland",
+      "weight": 4098268
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Poland",
+      "weight": 4098268
+    },
+    {
+      "source": "France",
+      "target": "China",
+      "weight": 4093626
+    },
+    {
+      "source": "France",
+      "target": "China",
+      "weight": 4093626
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Japan",
+      "weight": 4093218
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Japan",
+      "weight": 4093218
+    },
+    {
+      "source": "China",
+      "target": "Iceland",
+      "weight": 4082486
+    },
+    {
+      "source": "China",
+      "target": "Iceland",
+      "weight": 4082486
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 4078618
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "weight": 4078618
+    },
+    {
+      "source": "China",
+      "target": "South Africa",
+      "weight": 4051336
+    },
+    {
+      "source": "China",
+      "target": "South Africa",
+      "weight": 4051336
+    },
+    {
+      "source": "Germany",
+      "target": "United Kingdom",
+      "weight": 4044095
+    },
+    {
+      "source": "Germany",
+      "target": "United Kingdom",
+      "weight": 4044095
+    },
+    {
+      "source": "Japan",
+      "target": "Belgium",
+      "weight": 4038698
+    },
+    {
+      "source": "Japan",
+      "target": "Belgium",
+      "weight": 4038698
+    },
+    {
+      "source": "Canada",
+      "target": "Romania",
+      "weight": 4028841
+    },
+    {
+      "source": "Canada",
+      "target": "Romania",
+      "weight": 4028841
+    },
+    {
+      "source": "France",
+      "target": "Kazakhstan",
+      "weight": 4023185
+    },
+    {
+      "source": "France",
+      "target": "Kazakhstan",
+      "weight": 4023185
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 4019336
+    },
+    {
+      "source": "USA",
+      "target": "United Kingdom",
+      "weight": 4019336
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 4013835
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 4013835
+    },
+    {
+      "source": "Canada",
+      "target": "Turkey",
+      "weight": 3999991
+    },
+    {
+      "source": "Canada",
+      "target": "Turkey",
+      "weight": 3999991
+    },
+    {
+      "source": "France",
+      "target": "India",
+      "weight": 3974638
+    },
+    {
+      "source": "France",
+      "target": "India",
+      "weight": 3974638
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Brazil",
+      "weight": 3962115
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Brazil",
+      "weight": 3962115
+    },
+    {
+      "source": "Austria",
+      "target": "Germany",
+      "weight": 3956386
+    },
+    {
+      "source": "Austria",
+      "target": "Germany",
+      "weight": 3956386
+    },
+    {
+      "source": "Germany",
+      "target": "Italy",
+      "weight": 3938704
+    },
+    {
+      "source": "Germany",
+      "target": "Italy",
+      "weight": 3938704
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "USA",
+      "weight": 3922138
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "USA",
+      "weight": 3922138
+    },
+    {
+      "source": "South Africa",
+      "target": "France",
+      "weight": 3915247
+    },
+    {
+      "source": "South Africa",
+      "target": "France",
+      "weight": 3915247
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "Canada",
+      "weight": 3905340
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "Canada",
+      "weight": 3905340
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 3901879
+    },
+    {
+      "source": "USA",
+      "target": "Spain",
+      "weight": 3901879
+    },
+    {
+      "source": "Australia",
+      "target": "USA",
+      "weight": 3901405
+    },
+    {
+      "source": "Australia",
+      "target": "USA",
+      "weight": 3901405
+    },
+    {
+      "source": "Netherlands",
+      "target": "Finland",
+      "weight": 3892210
+    },
+    {
+      "source": "Netherlands",
+      "target": "Finland",
+      "weight": 3892210
+    },
+    {
+      "source": "USA",
+      "target": "El Salvador",
+      "weight": 3887161
+    },
+    {
+      "source": "USA",
+      "target": "El Salvador",
+      "weight": 3887161
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Malaysia",
+      "weight": 3885805
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Malaysia",
+      "weight": 3885805
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "Poland",
+      "weight": 3872315
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "Poland",
+      "weight": 3872315
+    },
+    {
+      "source": "Japan",
+      "target": "Singapore",
+      "weight": 3851735
+    },
+    {
+      "source": "Japan",
+      "target": "Singapore",
+      "weight": 3851735
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "USA",
+      "weight": 3820156
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "USA",
+      "weight": 3820156
+    },
+    {
+      "source": "USA",
+      "target": "Brazil",
+      "weight": 3794438
+    },
+    {
+      "source": "USA",
+      "target": "Brazil",
+      "weight": 3794438
+    },
+    {
+      "source": "Germany",
+      "target": "Finland",
+      "weight": 3775157
+    },
+    {
+      "source": "Germany",
+      "target": "Finland",
+      "weight": 3775157
+    },
+    {
+      "source": "USA",
+      "target": "Rep. of Korea",
+      "weight": 3770716
+    },
+    {
+      "source": "USA",
+      "target": "Rep. of Korea",
+      "weight": 3770716
+    },
+    {
+      "source": "China",
+      "target": "Serbia",
+      "weight": 3757816
+    },
+    {
+      "source": "China",
+      "target": "Serbia",
+      "weight": 3757816
+    },
+    {
+      "source": "Netherlands",
+      "target": "Norway",
+      "weight": 3742655
+    },
+    {
+      "source": "Netherlands",
+      "target": "Norway",
+      "weight": 3742655
+    },
+    {
+      "source": "Germany",
+      "target": "Australia",
+      "weight": 3739317
+    },
+    {
+      "source": "Germany",
+      "target": "Australia",
+      "weight": 3739317
+    },
+    {
+      "source": "France",
+      "target": "South Africa",
+      "weight": 3724984
+    },
+    {
+      "source": "France",
+      "target": "South Africa",
+      "weight": 3724984
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 3721014
+    },
+    {
+      "source": "USA",
+      "target": "Mexico",
+      "weight": 3721014
+    },
+    {
+      "source": "Turkey",
+      "target": "Greece",
+      "weight": 3718940
+    },
+    {
+      "source": "Turkey",
+      "target": "Greece",
+      "weight": 3718940
+    },
+    {
+      "source": "Japan",
+      "target": "USA",
+      "weight": 3691860
+    },
+    {
+      "source": "Japan",
+      "target": "USA",
+      "weight": 3691860
+    },
+    {
+      "source": "China",
+      "target": "Iran",
+      "weight": 3663856
+    },
+    {
+      "source": "China",
+      "target": "Iran",
+      "weight": 3663856
+    },
+    {
+      "source": "China",
+      "target": "El Salvador",
+      "weight": 3660972
+    },
+    {
+      "source": "China",
+      "target": "El Salvador",
+      "weight": 3660972
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 3657092
+    },
+    {
+      "source": "Canada",
+      "target": "China",
+      "weight": 3657092
+    },
+    {
+      "source": "Canada",
+      "target": "Malaysia",
+      "weight": 3640256
+    },
+    {
+      "source": "Canada",
+      "target": "Malaysia",
+      "weight": 3640256
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "weight": 3635471
+    },
+    {
+      "source": "China",
+      "target": "USA",
+      "weight": 3635471
+    },
+    {
+      "source": "Canada",
+      "target": "Sweden",
+      "weight": 3619971
+    },
+    {
+      "source": "Canada",
+      "target": "Sweden",
+      "weight": 3619971
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 3617251
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 3617251
+    },
+    {
+      "source": "Turkey",
+      "target": "Netherlands",
+      "weight": 3581158
+    },
+    {
+      "source": "Turkey",
+      "target": "Netherlands",
+      "weight": 3581158
+    },
+    {
+      "source": "Austria",
+      "target": "Germany",
+      "weight": 3570122
+    },
+    {
+      "source": "Austria",
+      "target": "Germany",
+      "weight": 3570122
+    },
+    {
+      "source": "Spain",
+      "target": "United Kingdom",
+      "weight": 3563801
+    },
+    {
+      "source": "Spain",
+      "target": "United Kingdom",
+      "weight": 3563801
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 3527666
+    },
+    {
+      "source": "France",
+      "target": "USA",
+      "weight": 3527666
+    },
+    {
+      "source": "Germany",
+      "target": "Finland",
+      "weight": 3505324
+    },
+    {
+      "source": "Germany",
+      "target": "Finland",
+      "weight": 3505324
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 3485996
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 3485996
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "Viet Nam",
+      "weight": 3477447
+    },
+    {
+      "source": "Rep. of Korea",
+      "target": "Viet Nam",
+      "weight": 3477447
+    },
+    {
+      "source": "Belgium",
+      "target": "Germany",
+      "weight": 3472804
+    },
+    {
+      "source": "Belgium",
+      "target": "Germany",
+      "weight": 3472804
+    },
+    {
+      "source": "China",
+      "target": "Egypt",
+      "weight": 3468669
+    },
+    {
+      "source": "China",
+      "target": "Egypt",
+      "weight": 3468669
+    },
+    {
+      "source": "Italy",
+      "target": "Netherlands",
+      "weight": 3468490
+    },
+    {
+      "source": "Italy",
+      "target": "Netherlands",
+      "weight": 3468490
+    },
+    {
+      "source": "Belgium",
+      "target": "Canada",
+      "weight": 3457035
+    },
+    {
+      "source": "Belgium",
+      "target": "Canada",
+      "weight": 3457035
+    },
+    {
+      "source": "China",
+      "target": "Brazil",
+      "weight": 3453608
+    },
+    {
+      "source": "China",
+      "target": "Brazil",
+      "weight": 3453608
+    },
+    {
+      "source": "Canada",
+      "target": "Switzerland",
+      "weight": 3447477
+    },
+    {
+      "source": "Canada",
+      "target": "Switzerland",
+      "weight": 3447477
+    },
+    {
+      "source": "Spain",
+      "target": "Sweden",
+      "weight": 3446874
+    },
+    {
+      "source": "Spain",
+      "target": "Sweden",
+      "weight": 3446874
+    },
+    {
+      "source": "Netherlands",
+      "target": "Norway",
+      "weight": 3446563
+    },
+    {
+      "source": "Netherlands",
+      "target": "Norway",
+      "weight": 3446563
+    },
+    {
+      "source": "France",
+      "target": "Switzerland",
+      "weight": 3429947
+    },
+    {
+      "source": "France",
+      "target": "Switzerland",
+      "weight": 3429947
+    },
+    {
+      "source": "Spain",
+      "target": "Portugal",
+      "weight": 3423037
+    },
+    {
+      "source": "Spain",
+      "target": "Portugal",
+      "weight": 3423037
+    },
+    {
+      "source": "Netherlands",
+      "target": "Australia",
+      "weight": 3413649
+    },
+    {
+      "source": "Netherlands",
+      "target": "Australia",
+      "weight": 3413649
+    },
+    {
+      "source": "USA",
+      "target": "Brazil",
+      "weight": 3399760
+    },
+    {
+      "source": "USA",
+      "target": "Brazil",
+      "weight": 3399760
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 3386522
+    },
+    {
+      "source": "USA",
+      "target": "France",
+      "weight": 3386522
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "Germany",
+      "weight": 3383658
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "Germany",
+      "weight": 3383658
+    },
+    {
+      "source": "China",
+      "target": "France",
+      "weight": 3376981
+    },
+    {
+      "source": "China",
+      "target": "France",
+      "weight": 3376981
+    },
+    {
+      "source": "South Africa",
+      "target": "USA",
+      "weight": 3342882
+    },
+    {
+      "source": "South Africa",
+      "target": "USA",
+      "weight": 3342882
+    },
+    {
+      "source": "Turkey",
+      "target": "Canada",
+      "weight": 3329779
+    },
+    {
+      "source": "Turkey",
+      "target": "Canada",
+      "weight": 3329779
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Ukraine",
+      "weight": 3319564
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Ukraine",
+      "weight": 3319564
+    },
+    {
+      "source": "Belgium",
+      "target": "Rep. of Korea",
+      "weight": 3318111
+    },
+    {
+      "source": "Belgium",
+      "target": "Rep. of Korea",
+      "weight": 3318111
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 3297648
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "weight": 3297648
+    },
+    {
+      "source": "Israel",
+      "target": "France",
+      "weight": 3286841
+    },
+    {
+      "source": "Israel",
+      "target": "France",
+      "weight": 3286841
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 3286089
+    },
+    {
+      "source": "China",
+      "target": "Russian Federation",
+      "weight": 3286089
+    },
+    {
+      "source": "Belgium",
+      "target": "China",
+      "weight": 3284182
+    },
+    {
+      "source": "Belgium",
+      "target": "China",
+      "weight": 3284182
+    },
+    {
+      "source": "China",
+      "target": "Malaysia",
+      "weight": 3280904
+    },
+    {
+      "source": "China",
+      "target": "Malaysia",
+      "weight": 3280904
+    },
+    {
+      "source": "USA",
+      "target": "India",
+      "weight": 3256657
+    },
+    {
+      "source": "USA",
+      "target": "India",
+      "weight": 3256657
+    },
+    {
+      "source": "France",
+      "target": "Czech Rep.",
+      "weight": 3256138
+    },
+    {
+      "source": "France",
+      "target": "Czech Rep.",
+      "weight": 3256138
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Armenia",
+      "weight": 3246020
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Armenia",
+      "weight": 3246020
+    },
+    {
+      "source": "France",
+      "target": "Netherlands",
+      "weight": 3211537
+    },
+    {
+      "source": "France",
+      "target": "Netherlands",
+      "weight": 3211537
+    },
+    {
+      "source": "France",
+      "target": "Italy",
+      "weight": 3209094
+    },
+    {
+      "source": "France",
+      "target": "Italy",
+      "weight": 3209094
+    },
+    {
+      "source": "Sweden",
+      "target": "USA",
+      "weight": 3203619
+    },
+    {
+      "source": "Sweden",
+      "target": "USA",
+      "weight": 3203619
+    },
+    {
+      "source": "China",
+      "target": "Thailand",
+      "weight": 3183828
+    },
+    {
+      "source": "China",
+      "target": "Thailand",
+      "weight": 3183828
+    },
+    {
+      "source": "Poland",
+      "target": "Germany",
+      "weight": 3152603
+    },
+    {
+      "source": "Poland",
+      "target": "Germany",
+      "weight": 3152603
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Spain",
+      "weight": 3146852
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Spain",
+      "weight": 3146852
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "weight": 3145097
+    },
+    {
+      "source": "Canada",
+      "target": "France",
+      "weight": 3145097
+    },
+    {
+      "source": "Italy",
+      "target": "Thailand",
+      "weight": 3132788
+    },
+    {
+      "source": "Italy",
+      "target": "Thailand",
+      "weight": 3132788
+    },
+    {
+      "source": "Italy",
+      "target": "Austria",
+      "weight": 3126407
+    },
+    {
+      "source": "Italy",
+      "target": "Austria",
+      "weight": 3126407
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 3123741
+    },
+    {
+      "source": "Japan",
+      "target": "Rep. of Korea",
+      "weight": 3123741
+    },
+    {
+      "source": "Italy",
+      "target": "Spain",
+      "weight": 3120902
+    },
+    {
+      "source": "Italy",
+      "target": "Spain",
+      "weight": 3120902
+    },
+    {
+      "source": "France",
+      "target": "Norway",
+      "weight": 3116898
+    },
+    {
+      "source": "France",
+      "target": "Norway",
+      "weight": 3116898
+    },
+    {
+      "source": "USA",
+      "target": "Russian Federation",
+      "weight": 3093756
+    },
+    {
+      "source": "USA",
+      "target": "Russian Federation",
+      "weight": 3093756
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "Canada",
+      "weight": 3087686
+    },
+    {
+      "source": "Czech Rep.",
+      "target": "Canada",
+      "weight": 3087686
+    },
+    {
+      "source": "Austria",
+      "target": "USA",
+      "weight": 3084744
+    },
+    {
+      "source": "Austria",
+      "target": "USA",
+      "weight": 3084744
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 3080874
+    },
+    {
+      "source": "USA",
+      "target": "Japan",
+      "weight": 3080874
+    },
+    {
+      "source": "China",
+      "target": "Argentina",
+      "weight": 3054611
+    },
+    {
+      "source": "China",
+      "target": "Argentina",
+      "weight": 3054611
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Estonia",
+      "weight": 3053783
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Estonia",
+      "weight": 3053783
+    },
+    {
+      "source": "China",
+      "target": "Turkey",
+      "weight": 3052463
+    },
+    {
+      "source": "China",
+      "target": "Turkey",
+      "weight": 3052463
+    },
+    {
+      "source": "Belgium",
+      "target": "Germany",
+      "weight": 3052144
+    },
+    {
+      "source": "Belgium",
+      "target": "Germany",
+      "weight": 3052144
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 3026303
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "weight": 3026303
+    },
+    {
+      "source": "China",
+      "target": "Italy",
+      "weight": 3021892
+    },
+    {
+      "source": "China",
+      "target": "Italy",
+      "weight": 3021892
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 3013619
+    },
+    {
+      "source": "USA",
+      "target": "China",
+      "weight": 3013619
+    },
+    {
+      "source": "Netherlands",
+      "target": "Ireland",
+      "weight": 3009927
+    },
+    {
+      "source": "Netherlands",
+      "target": "Ireland",
+      "weight": 3009927
+    }
+  ]
+}
