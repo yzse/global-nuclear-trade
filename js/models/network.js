@@ -17,17 +17,17 @@ define([
         // Initial attributes
         defaults:{
             "width": 1100,
-            "height": 700,
-            "charge": -100,
-            "link_distance": 100,
+            "height": 900,
+            "charge": -50,
+            "link_distance": 320,
             "color_on": false,
             "node_text_on": true,
-            "node_radius": 10,
+            "node_radius": 20,
             "node_shape": "circle",
             "add_node_names": true,
 
             // link properties
-            "link_opacity": 1.0,
+            "link_opacity": 0.5,
             "link_width": 1.0,
             "link_color": "#999", 
             "link_key" : "network"

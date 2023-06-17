@@ -65,14 +65,14 @@ define([
         init_link_map: function(data) {
             // Initialize a link mapping
             //
-            // mapping = {
-            //  "trajectory 1" : [{"source": 1, "target": 2}, ...],
+            mapping = {
+             "trajectory 1" : [{"source": 1, "target": 2}]
             //  "trajectory 2" : [{"source": 1, "target": 4}, ...],
             //    ...
-            // }
+            }
             //
 
-            var mapping = {};
+            // var mapping = {};
 
             for(var i=0; i < data.length; i++) {
                 // Key to mapping is trajectory + index
