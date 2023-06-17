@@ -19,4 +19,4 @@ requirejs.config({
     }
 })
 // Enter application through main.js
-requirejs(['main.js']);
+requirejs(['/global-nuclear-trade/main.js']);
