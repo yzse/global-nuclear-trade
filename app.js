@@ -7,7 +7,7 @@ Application entry point if stand-alone application -- base URL to top level of t
 // Config the application paths for other scripts loading modules
 
 requirejs.config({
-    baseUrl: '',
+    baseUrl: '/global-nuclear-trade/',
     paths: {
         backbone: 'lib/backbone/backbone-min',
         bootstrap: 'lib/bootstrap/js/bootstrap.min',
@@ -19,4 +19,4 @@ requirejs.config({
     }
 })
 // Enter application through main.js
-requirejs(['main.js']);
+requirejs(['/global-nuclear-trade/main.js']);
