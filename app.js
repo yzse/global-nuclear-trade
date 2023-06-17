@@ -19,4 +19,4 @@ requirejs.config({
     }
 })
 // Enter application through main.js
-requirejs(['js/main']);
+requirejs(['main.js']);
