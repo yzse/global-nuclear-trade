@@ -18,8 +18,8 @@ define([
         defaults:{
             "width": 1100,
             "height": 900,
-            "charge": -50,
-            "link_distance": 320,
+            "charge": -60,
+            "link_distance": 350,
             "color_on": false,
             "node_text_on": true,
             "node_radius": 20,
